@@ -1,10 +1,10 @@
 ## Rafaela 👋
 
 -  📖 Graduate - Food and biological engineer 🇵🇹
--  📖 Specialization oncobiology - molecular mechanism of cancer 🇵🇹
+- 📖 **Specialization oncobiology** – molecular mechanism of cancer 🇵🇹
 -  📖 Graduate student data science and artificial intelligence | Faculdade Única
 -  🧬 M.Sc. Student Clinical and Laboratory Physiopathology | State University of Londrina (UEL)
--  📊 Bioinformatics student in Word Aid
+-  📊 **Bioinformatics student** in [Word Aid] (https://word-aid.com)
 -  🔬 Research Focus: Translational Oncology & Molecular Biology
 -  💻 Data Science & Bioinformatics: R Language, Machine Learning  & biostatistics
 -  📝 Psychosocial & Clinical Integration: Analyzing outcomes through biological and lifestyle data
