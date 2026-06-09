@@ -4,7 +4,7 @@
 -  📖 Specialization oncobiology - molecular mechanism of cancer 🇵🇹
 -  📖 Graduate student data science and artificial intelligence | Faculdade Única
 -  🧬 M.Sc. Student Clinical and Laboratory Physiopathology | State University of Londrina (UEL)
--  📊 Bioinformatics student in Word Ai
+-  📊 Bioinformatics student in Word Aid
 -  🔬 Research Focus: Translational Oncology & Molecular Biology
 -  💻 Data Science & Bioinformatics: R Language, Machine Learning  & biostatistics
 -  📝 Psychosocial & Clinical Integration: Analyzing outcomes through biological and lifestyle data
