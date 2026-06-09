@@ -1,16 +1,11 @@
-## Hi there 👋
+## Rafaela 👋
 
-<!--
-**rafam-code/rafam-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  📖 Graduate - Food and biological engineer 🇵🇹
+-  📖 Specialization oncobiology - molecular mechanism of cancer 🇵🇹
+-  📖 Graduate student data science and artificial intelligence | Faculdade Única
+-  🧬 M.Sc. Student Clinical and Laboratory Physiopathology | State University of Londrina (UEL)
+-  📊 Bioinformatics student in Word Ai
+-  🔬 Research Focus: Translational Oncology & Molecular Biology
+-  💻 Data Science & Bioinformatics: R Language, Machine Learning  & biostatistics
+-  📝 Psychosocial & Clinical Integration: Analyzing outcomes through biological and lifestyle data
+-  📋 🎀 Onncovida Program: Individual sessions focused on self-reflection and the reframing of life experiences. Incorporating mirror therapy to enhance self-image and self-esteem. Moving beyond action, it addresses the patient's inner self, feelings, beliefs, and personal well-being.
