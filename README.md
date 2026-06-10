@@ -15,7 +15,7 @@ ____
 
 [![Lattes](https://img.shields.io/badge/Lattes-003366?style=plastic&logo=academic-pages&logoColor=white)](https://lattes.cnpq.br/5302179164225908)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelareimendes/)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=plastic&logo=orcid&logoColor=white)](COLE_AQUI_O_LINK_DO_SEU_ORCID)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=plastic&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-1618-634X)
 
 ____
 
